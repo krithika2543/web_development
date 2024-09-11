@@ -6,3 +6,6 @@
    
 4. JSON: https://stackoverflow.blog/2022/06/02/a-beginners-guide-to-json-the-data-format-for-the-internet/
 
+5. DOM Manipulation: https://youtube.com/playlist?list=PL4cUxeGkcC9gfoKa5la9dsdCNpuey2s-V&si=2Y1xq0DkNmk7mzCc
+
+
